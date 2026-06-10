@@ -9,5 +9,5 @@ typedef struct{
   char crew[STRING_SIZE];
 } Pirate;
 
-int comparePirates(const void* x, const void* y);
+int comparePirates(const void* x, const void* y);i
 #endif

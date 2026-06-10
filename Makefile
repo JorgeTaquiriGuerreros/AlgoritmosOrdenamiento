@@ -6,4 +6,4 @@ sorting.o: sorting.c sorting.h
 	gcc -c sorting.c
 
 clean:
-	rm *.o
+	rm *.o 
