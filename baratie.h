@@ -9,4 +9,5 @@ typedef struct{
 
 int compareOrders(const void* x, const void* y);
 int dishPriority(const char* dish);
+int printOrders(const void* o);
 #endif
